@@ -10,7 +10,7 @@ This repo includes notes, exercises, and projects from different courses and sel
 - [CS50x – Introduction to Computer Science (Harvard, edX)](https://cs50.harvard.edu/x/)  
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 - IBM Data Science Professional Certificate (Coursera)  
-- CS50’s Introduction to AI with Python  
+- CS50’s Introduction to AI with Python.
 - Machine Learning by Andrew Ng (Coursera)  
 
 ---
