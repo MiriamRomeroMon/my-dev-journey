@@ -67,6 +67,23 @@ section h2 {
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
+/* Python project cards */
+.card.python-project {
+    background-color: #ffe066; /* amarillo suave */
+    border: 2px solid #f9a825; /* borde dorado */
+    color: #333;
+}
+
+.card.python-project a {
+    color: #f57f17; /* color del enlace más llamativo */
+    font-weight: bold;
+}
+
+.card.python-project:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(245, 127, 23, 0.3);
+}
+
 /* Footer */
 footer {
     text-align: center;
