@@ -1,4 +1,3 @@
-# hello_name.py
 # A simple Python project that greets the user and asks for their name and age.
 
 print("Hello! Welcome to my first Python project 🚀")
