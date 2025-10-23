@@ -10,7 +10,7 @@ This repo includes notes, exercises, and projects from different courses and sel
 - [CS50x – Introduction to Computer Science (Harvard, edX)](https://cs50.harvard.edu/x/)  
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 - IBM Data Science Professional Certificate (Coursera)  
-- CS50’s Introduction to AI with Python.
+- CS50’s Introduction to AI with Python  
 - Machine Learning by Andrew Ng (Coursera)  
 
 ---
@@ -21,15 +21,11 @@ This repo includes notes, exercises, and projects from different courses and sel
 
 ---
 
-## 📝 Progress log
-- **Week 1:** Completed CS50x Week 0 (Scratch) video and notes.  
-- **Week 1:** Read Chapter 1 of *Automate the Boring Stuff with Python*.  
-- Upcoming: CS50x Week 1 (C basics), Automate Ch. 2–3.  
-
----
-
 ## 💻 Projects
-- [ ] Personal Portfolio (HTML/CSS/JS)  
+- [x] Personal Portfolio (HTML/CSS/JS)  
+- [x] Python: Hello Name Project  
+- [x] Python: Number Guessing Game  
+- [x] C: Dynamic Average Calculator  
 - [ ] Python automation scripts (files, PDFs, Excel)  
 - [ ] Data analysis with Pandas  
 - [ ] Flask web apps  
@@ -40,4 +36,6 @@ This repo includes notes, exercises, and projects from different courses and sel
 ## 🌍 About me
 Aspiring developer with a strong motivation to learn programming and artificial intelligence.  
 I already completed certifications in Responsive Web Design and JavaScript (freeCodeCamp).  
+Open to remote opportunities and collaboration on exciting projects.
+ and JavaScript (freeCodeCamp).  
 Open to remote opportunities and collaboration on exciting projects. 
